@@ -1,7 +1,4 @@
 <div align="center">
-
-
----
  
 ```
 ░█████╗░███╗░░██╗░█████╗░███╗░░██╗██╗░░░██╗████████╗███████╗░█████╗░
@@ -30,7 +27,7 @@
      alt="Janidu Emalga"/>
  
 <br/>
-### 👤 Janidu Emalga
+👤 Janidu Emalga
 
 [![GitHub](https://img.shields.io/badge/GitHub-Janidu--Emalga-181717?style=flat-square&logo=github)](https://github.com/JaniduXxX)
 [![YouTube](https://img.shields.io/badge/YouTube-ANONYTEC-FF0000?style=flat-square&logo=youtube)](https://youtube.com/@JaniduXxX)
