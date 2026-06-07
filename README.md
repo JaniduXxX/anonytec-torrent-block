@@ -108,7 +108,7 @@ sudo bash ANONYTEC_TORRENT_BLOCK.sh
 </tr>
 <tr>
 <td>🔴 Layer 1</td>
-<td>Port Range Block <code>6881–6999</code></td>
+<td>Port Range Block </td>
 <td>BitTorrent default ports සම්පූර්ණයෙන් block කිරීම</td>
 </tr>
 <tr>
@@ -165,13 +165,13 @@ anonytec-torrent-block/
 <table>
 <tr>
 <td>
-🇱🇰 **සිංහල** — මෙම script එක නිදහස් භාවිතය සඳහා නිකුත් කරන ලදී. ඕනෑම හානියකට කර්තෘ වගකිව නොහේ. නිසි අවසරය ඇති server හා network හිදී පමණක් භාවිතා කරන්න.
+🇱🇰 සිංහල — මෙම script එක නිදහස් භාවිතය සඳහා නිකුත් කරන ලදී. ඕනෑම හානියකට කර්තෘ වගකිව නොහේ. නිසි අවසරය ඇති server හා network හිදී පමණක් භාවිතා කරන්න.
  
 </td>
 </tr>
 <tr>
 <td>
-🇬🇧 **English** — This script is released for free use. The author holds no responsibility for any damage caused. Use only on servers and networks you own or have explicit permission to manage.
+🇬🇧 English — This script is released for free use. The author holds no responsibility for any damage caused. Use only on servers and networks you own or have explicit permission to manage.
  
 </td>
 </tr>
