@@ -20,19 +20,7 @@
 [![Version](https://img.shields.io/badge/Version-v1.0-cyan?style=for-the-badge)](.)
  
 *coded by **Janidu Emalga** · ANONYTEC*
-<br/>
- <img src="https://avatars.githubusercontent.com/JaniduXxX" 
-     width="120" 
-     style="border-radius:50%; border: 3px solid #00bcd4;" 
-     alt="Janidu Emalga"/>
- 
-<br/>
-👤 Janidu Emalga
 
-[![GitHub](https://img.shields.io/badge/GitHub-Janidu--Emalga-181717?style=flat-square&logo=github)](https://github.com/JaniduXxX)
-[![YouTube](https://img.shields.io/badge/YouTube-ANONYTEC-FF0000?style=flat-square&logo=youtube)](https://youtube.com/@JaniduXxX)
-[![Telegram](https://img.shields.io/badge/Telegram-ANONYTEC-2CA5E0?style=flat-square&logo=telegram)](https://t.me/Team_Anon_2)
- 
 </div>
 
 ---
@@ -193,17 +181,21 @@ anonytec-torrent-block/
 ## 👤 Author / කර්තෘ
  
 <div align="center">
-| | |
-|---|---|
-| **Name** | Janidu Emalga |
-| **Project** | ANONYTEC |
-| **Tool** | ANONYTEC Torrent Block v1.0 |
-| **Platform** | Linux VPS · iptables |
+<br/>
+ <img src="https://avatars.githubusercontent.com/JaniduXxX" 
+     width="120" 
+     style="border-radius:50%; border: 3px solid #00bcd4;" 
+     alt="Janidu Emalga"/>
  
----
+<br/>
+👤 Janidu Emalga
+
+[![GitHub](https://img.shields.io/badge/GitHub-Janidu--Emalga-181717?style=flat-square&logo=github)](https://github.com/JaniduXxX)
+[![YouTube](https://img.shields.io/badge/YouTube-ANONYTEC-FF0000?style=flat-square&logo=youtube)](https://youtube.com/@JaniduXxX)
+[![Telegram](https://img.shields.io/badge/Telegram-ANONYTEC-2CA5E0?style=flat-square&logo=telegram)](https://t.me/Team_Anon_2)
  
 <div align="center">
-**⭐ Star this repo if it helped you! / ප්‍රයෝජනවත් නම් Star කරන්න!**
+*⭐ Star this repo if it helped you! / ප්‍රයෝජනවත් නම් Star කරන්න!*
  
 *© 2026 ANONYTEC · coded by Janidu Emalga*
  
