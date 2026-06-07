@@ -1,15 +1,12 @@
+
+ 
+
 <div align="center">
- 
-```
-░█████╗░███╗░░██╗░█████╗░███╗░░██╗██╗░░░██╗████████╗███████╗░█████╗░
-██╔══██╗████╗░██║██╔══██╗████╗░██║╚██╗░██╔╝╚══██╔══╝██╔════╝██╔══██╗
-███████║██╔██╗██║██║░░██║██╔██╗██║░╚████╔╝░░░░██║░░░█████╗░░██║░░╚═╝
-██╔══██║██║╚████║██║░░██║██║╚████║░░╚██╔╝░░░░░██║░░░██╔══╝░░██║░░██╗
-██║░░██║██║░╚███║╚█████╔╝██║░╚███║░░░██║░░░░░░██║░░░███████╗╚█████╔╝
-╚═╝░░╚═╝╚═╝░░╚══╝░╚════╝░╚═╝░░╚══╝░░░╚═╝░░░░░╚═╝░░░╚══════╝░╚════╝░
-```
- 
-# 🛡️ ANONYTEC — TORRENT BLOCK
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bcd4,100:7c4dff&height=200&section=header&text=ANONYTEC&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=TORRENT%20BLOCK%20v1.0&descAlignY=55&descSize=20" width="100%"/>
+</div>
+   
+<div align="center">
+ 🛡️ ANONYTEC — TORRENT BLOCK
  
 **BitTorrent & P2P Traffic Blocker — Kernel Level Firewall**
  
