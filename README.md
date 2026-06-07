@@ -17,12 +17,14 @@
 [![iptables](https://img.shields.io/badge/Engine-iptables-red?style=for-the-badge)](https://netfilter.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 [![Author](https://img.shields.io/badge/Author-Janidu%20Emalga-purple?style=for-the-badge)](https://github.com/)
- 
----
+ </div>
+---<div>
  <img src="https://avatars.githubusercontent.com/JaniduXxX" 
      width="120" 
      style="border-radius:50%; border: 3px solid #00bcd4;" 
      alt="Janidu Emalga"/>
+     </div>
+ <div>    
 *coded by **Janidu Emalga** · ANONYTEC*
  
 </div>
