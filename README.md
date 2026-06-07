@@ -1,4 +1,20 @@
 <div align="center">
+
+<img src="https://avatars.githubusercontent.com/JaniduXxX" 
+     width="120" 
+     style="border-radius:50%; border: 3px solid #00bcd4;" 
+     alt="Janidu Emalga"/>
+ 
+<br/>
+### 👤 Janidu Emalga
+`🇱🇰 Sri Lanka` &nbsp;·&nbsp; `ANONYTEC` &nbsp;·&nbsp; `Linux Security`
+ 
+[![GitHub](https://img.shields.io/badge/GitHub-Janidu--Emalga-181717?style=flat-square&logo=github)](https://github.com/yourusername)
+[![YouTube](https://img.shields.io/badge/YouTube-ANONYTEC-FF0000?style=flat-square&logo=youtube)](https://youtube.com/@yourchannel)
+[![Telegram](https://img.shields.io/badge/Telegram-ANONYTEC-2CA5E0?style=flat-square&logo=telegram)](https://t.me/yourchannel)
+ 
+---
+ 
 ```
 ░█████╗░███╗░░██╗░█████╗░███╗░░██╗██╗░░░██╗████████╗███████╗░█████╗░
 ██╔══██╗████╗░██║██╔══██╗████╗░██║╚██╗░██╔╝╚══██╔══╝██╔════╝██╔══██╗
@@ -16,20 +32,12 @@
 [![Platform](https://img.shields.io/badge/Platform-Linux%20VPS-blue?style=for-the-badge&logo=linux)](https://www.linux.org/)
 [![iptables](https://img.shields.io/badge/Engine-iptables-red?style=for-the-badge)](https://netfilter.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
-[![Author](https://img.shields.io/badge/Author-Janidu%20Emalga-purple?style=for-the-badge)](https://github.com/)
- </div>
----<div>
- <img src="https://avatars.githubusercontent.com/JaniduXxX" 
-     width="120" 
-     style="border-radius:50%; border: 3px solid #00bcd4;" 
-     alt="Janidu Emalga"/>
+[![Version](https://img.shields.io/badge/Version-v1.0-cyan?style=for-the-badge)](.)
  
-<br/>
-
- <div>    
 *coded by **Janidu Emalga** · ANONYTEC*
  
 </div>
+
 ---
  
 ## 📖 විස්තරය / Description
