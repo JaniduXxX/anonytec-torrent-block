@@ -2,7 +2,7 @@
 # ================================================================
 #   ANONYTEC TORRENT BLOCK v1.0
 #   coded by :- Janidu Emalga
-#   © 2024 ANONYTEC - All Rights Reserved
+#   © 2026 ANONYTEC - All Rights Reserved
 #   [PROTECTED] Unauthorized copy restricted
 # ================================================================
 _0x41="QU5PTllURUMgVE9SUkVOVCBCTE9DSw=="
