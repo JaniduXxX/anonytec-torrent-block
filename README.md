@@ -19,7 +19,10 @@
 [![Author](https://img.shields.io/badge/Author-Janidu%20Emalga-purple?style=for-the-badge)](https://github.com/)
  
 ---
- 
+ <img src="https://avatars.githubusercontent.com/JaniduXxX" 
+     width="120" 
+     style="border-radius:50%; border: 3px solid #00bcd4;" 
+     alt="Janidu Emalga"/>
 *coded by **Janidu Emalga** · ANONYTEC*
  
 </div>
